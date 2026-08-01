@@ -33,10 +33,11 @@ Develop an interactive dashboard to help business stakeholders monitor sales per
 ## 📊 Dashboard Preview
 
 ### Main Dashboard
-*(We will insert the image here in the next step.)*
+<img width="771" height="502" alt="Screenshot 2026-07-31 182215" src="https://github.com/user-attachments/assets/c5788843-2850-4ef8-9d5f-b71c75bdcfc4" />
 
 ### Filtered Dashboard (2018)
-*(We will insert the image here in the next step.)*
+<img width="932" height="541" alt="Screenshot 2026-07-31 190033" src="https://github.com/user-attachments/assets/fa10fb22-af5a-423b-9de8-8d7931b967cb" />
+
 
 ---
 
@@ -66,5 +67,4 @@ The complete interactive Excel workbook is available in the **Releases** section
 - Excel Automation
 - Power Pivot
 
-- <img width="771" height="502" alt="Screenshot 2026-07-31 182215" src="https://github.com/user-attachments/assets/c5788843-2850-4ef8-9d5f-b71c75bdcfc4" />
-<img width="932" height="541" alt="Screenshot 2026-07-31 190033" src="https://github.com/user-attachments/assets/fa10fb22-af5a-423b-9de8-8d7931b967cb" />
+
