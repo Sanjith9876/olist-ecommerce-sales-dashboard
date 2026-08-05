@@ -52,10 +52,9 @@ Develop an interactive dashboard to help business stakeholders monitor sales per
 ---
 
 ## 📥 Download Excel Workbook
+The Excel dataset used in this project can be downloaded here:
 
-The complete interactive Excel workbook is available in the **Releases** section of this repository.
-
----
+https://docs.google.com/spreadsheets/d/1f30O7PGcWmgjkTyEJhSV53dXxGBIGgtL/edit?usp=drive_link&ouid=108112285242522611550&rtpof=true&sd=true
 
 ## 🚀 Skills Demonstrated
 - Data Cleaning
